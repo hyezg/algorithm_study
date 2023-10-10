@@ -7,6 +7,6 @@
 </tr>
 <tr>
   <td>1010</td>
-  <td>사람1</td>
-  <td>answp</td>
+  <td><a href ="https://www.acmicpc.net/problem/2750">문제1</a></td>
+  <td>사람</td>
 </tr>
